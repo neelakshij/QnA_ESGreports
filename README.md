@@ -1,15 +1,11 @@
 # QnA_ESGreports
 Question-and-Answer app to explore ESG reports using RAG-LLM
 
-<img src="https://user-images.githubusercontent.com/neelakshij/QnA_ESGreports/images/kx-image.png" width="200" />
+[<img src="./images/kx-image.png" width="30" />](./link/to/png/file)
+
 
 This project is developed as a part of KaagleX BIPOC mentorship program.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/images/kx-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/images/kx-image.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/images/kx-image.png">
-</picture>
 
 
 The project titled "Q-n-A with ESG report using LLM" is an end-to-end project based on Retrieval Augmentation Generation (RAG) concept where external information, in this case, ESG, i.e., Environmental-Social-Governance reports, are provided to large language models (LLM). 
