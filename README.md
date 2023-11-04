@@ -13,6 +13,3 @@
 ## How it works
 <p> Front end of the app collects year, company name and query from the user, and then displays response with source page numbers. In the backend, report is fetched from GCP-bucket/repository. It gets processed to obtain embeddings.Then LLM retrieves related text chunks and creates concise response. Also returns the corresponding page numbers from metadata associated to text-chunks. This project is created on Google Cloud Platform (GCP). Reports are collected by web scrapping and stored in GCP Bucket. To render Streamlit app from GCP, the project use local tunnel and ipv4 utilities. </p>
 
-## App
-
-[<img src="./images/" width="150" />](./link/to/png/file) 
