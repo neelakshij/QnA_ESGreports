@@ -1,10 +1,7 @@
 # QnA_ESGreports
 Question-and-Answer app to explore ESG reports using RAG-LLM
 
-[<img src="./images/kx-image.png" width="100" />](./link/to/png/file)
-
-
-This project is developed as a part of KaagleX BIPOC mentorship program.
+[<img src="./images/kx-image.png" width="200" />](./link/to/png/file) This project is developed as a part of KaagleX BIPOC mentorship program.
 
 
 
