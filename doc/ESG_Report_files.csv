@@ -1,0 +1,21 @@
+filepath,year,company_symbol,company_name
+./gcs-bucket/reports/2018/2018_NVDA.pdf,2018,NVDA,NVIDIA Corp.
+./gcs-bucket/reports/2019/2019_GOOGL.pdf,2019,GOOGL,Alphabet Inc. Class A
+./gcs-bucket/reports/2020/2020_GOOGL.pdf,2020,GOOGL,Alphabet Inc. Class A
+./gcs-bucket/reports/2021/2021_AAPL.pdf,2021,AAPL,Apple Inc.
+./gcs-bucket/reports/2021/2021_CSCO.pdf,2021,CSCO,Cisco Systems Inc.
+./gcs-bucket/reports/2021/2021_LIN.pdf,2021,LIN,Linde
+./gcs-bucket/reports/2021/2021_NKE.pdf,2021,NKE,NIKE Inc. Class B
+./gcs-bucket/reports/2021/2021_NVDA.pdf,2021,NVDA,NVIDIA Corp.
+./gcs-bucket/reports/2021/2021_PG.pdf,2021,PG,Procter & Gamble Company
+./gcs-bucket/reports/2022/2022_AAPL.pdf,2022,AAPL,Apple Inc.
+./gcs-bucket/reports/2022/2022_AMZN.pdf,2022,AMZN,Amazon.com Inc.
+./gcs-bucket/reports/2022/2022_CSCO.pdf,2022,CSCO,Cisco Systems Inc.
+./gcs-bucket/reports/2022/2022_GOOGL.pdf,2022,GOOGL,Alphabet Inc. Class A
+./gcs-bucket/reports/2022/2022_JPM.pdf,2022,JPM,JPMorgan Chase & Co.
+./gcs-bucket/reports/2022/2022_LIN.pdf,2022,LIN,Linde
+./gcs-bucket/reports/2022/2022_NFLX.pdf,2022,NFLX,Netflix Inc.
+./gcs-bucket/reports/2022/2022_NKE.pdf,2022,NKE,NIKE Inc. Class B
+./gcs-bucket/reports/2022/2022_NVDA.pdf,2022,NVDA,NVIDIA Corp.
+./gcs-bucket/reports/2022/2022_PG.pdf,2022,PG,Procter & Gamble Company
+./gcs-bucket/reports/2022/2022_WMT.pdf,2022,WMT,Walmart Inc.
